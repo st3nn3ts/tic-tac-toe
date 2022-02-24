@@ -64,7 +64,7 @@ infoTxt.innerHTML = 'pc\'s thinking...',infoTxt.style.color = 'withe'
 //played.push(1) //Give extra push's (Error)
  infoTxt.innerHTML = 'Human\'s turn'
 }
-//},1000});
+//},1000);
 if (winner()){
  alert(currenP + '  won. Restart ?')
 restart()
