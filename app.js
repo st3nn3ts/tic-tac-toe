@@ -110,7 +110,7 @@ table.forEach(box => {box.addEventListener('click',myfunction,{once:true})});
 //const off = () => {
 //table.forEach(box => {box.removeEventListener('click',myfunction)});} // Exprimential stuff
 
-//  TASK :1 add setTimeout.2 why isn't mouse function's work Random spot work's  only'randomly' ?
+//  TASK :1 add setTimeout.2 why isn't mouse function's work? Random spot work's  only'randomly' ?
     ____---------------_____________-----------------__________________----------------____---\\
 
 
